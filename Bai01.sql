@@ -1,0 +1,1 @@
+SELECT * FROM sesion02_bai01.products;
